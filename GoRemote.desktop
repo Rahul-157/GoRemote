@@ -2,6 +2,6 @@
 Type=Application
 Encoding=UTF-8
 Name=GoRemote
-Exec=/home/rahul/goRemote.sh
+Exec=/home/home/GoRemote/goRemote.sh
 Terminal=true
 Category=Development;
