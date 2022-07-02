@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "engines": {
-      "node": "14.x"
-    }
+    "node": "14.x"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
